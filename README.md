@@ -11,19 +11,19 @@ Make sure Internet connected for first time run to download gradle dependency fi
 
 This REST Api Application was build on Spring BOOT bundled with JPA
 
-Step 1 :
+## Step 1 :
 
 Clone or download this repository
 
-Step 2 :
+## Step 2 :
 
 Run db_schema.sql file or execute the code line by line in mysql command line
 
-Step 3 : 
+## Step 3 : 
 Add your database username, password and dbname in application.properties file under
 build/resources/main folder
 
-Step 4 :
+## Step 4 :
 
 Run below command
 cd guest-room-app
